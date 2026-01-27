@@ -1,8 +1,7 @@
 {
-  "version": 2,
-  "framework": "nextjs",
-  "installCommand": "cd client && npm ci",
-  "buildCommand": "cd client && npm run build",
-  "outputDirectory": "client/.next"
+    "version": 2,
+    "framework": "nextjs",
+    "installCommand": "cd client && npm install",
+    "buildCommand": "cd client && npm run build",
+    "outputDirectory": "client/.next"
 }
-
